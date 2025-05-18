@@ -27,4 +27,3 @@ roleRef:
   kind: Role
   name: secret-reader-role
   apiGroup: rbac.authorization.k8s.io
-  
